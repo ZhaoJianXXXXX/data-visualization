@@ -12,7 +12,7 @@
 ![image](https://github.com/hoc2019/data-visualization/blob/master/images/radar.jpg)
 
 	仪表盘：
-![image](https://github.com/hoc2019/data-visualization/blob/master/images/dash-board.png)
+![image](https://github.com/hoc2019/data-visualization/blob/master/images/dash-board.jpg)
 
 # 使用方法
 	pull代码到本地
