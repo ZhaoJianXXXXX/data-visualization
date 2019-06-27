@@ -45,5 +45,5 @@
 ![image](https://github.com/hoc2019/data-visualization/blob/master/images/dash-board.jpg)
 
 	时钟：
-![image](https://github.com/hoc2019/data-visualization/blob/master/images/clock.jpg)
+![image](https://github.com/hoc2019/data-visualization/blob/master/images/clock.gif)
 
