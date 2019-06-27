@@ -33,13 +33,13 @@
 	clock（时钟）
 # demo图例
 	折线图：
-![image](https://github.com/ZhaoJianXXXXX/data-visualization/blob/master/images/line.jpg)
+![image](https://github.com/ZhaoJianXXXXX/data-visualization/blob/master/images/line.gif)
 
 	散点图：
-![image](https://github.com/ZhaoJianXXXXX/data-visualization/blob/master/images/dot.jpg)
+![image](https://github.com/ZhaoJianXXXXX/data-visualization/blob/master/images/dot.gif)
 
 	雷达图：
-![image](https://github.com/ZhaoJianXXXXX/data-visualization/blob/master/images/radar.jpg)
+![image](https://github.com/ZhaoJianXXXXX/data-visualization/blob/master/images/radar.gif)
 
 	仪表盘：
 ![image](https://github.com/ZhaoJianXXXXX/data-visualization/blob/master/images/dash-board.jpg)
