@@ -33,17 +33,16 @@
 	clock（时钟）
 # demo图例
 	折线图：
-![image](https://github.com/hoc2019/data-visualization/blob/master/images/line.jpg)
+![image](https://github.com/ZhaoJianXXXXX/data-visualization/blob/master/images/line.jpg)
 
 	散点图：
-![image](https://github.com/hoc2019/data-visualization/blob/master/images/dot.jpg)
+![image](https://github.com/ZhaoJianXXXXX/data-visualization/blob/master/images/dot.jpg)
 
 	雷达图：
-![image](https://github.com/hoc2019/data-visualization/blob/master/images/radar.jpg)
+![image](https://github.com/ZhaoJianXXXXX/data-visualization/blob/master/images/radar.jpg)
 
 	仪表盘：
-![image](https://github.com/hoc2019/data-visualization/blob/master/images/dash-board.jpg)
+![image](https://github.com/ZhaoJianXXXXX/data-visualization/blob/master/images/dash-board.jpg)
 
 	时钟：
-![image](https://github.com/hoc2019/data-visualization/blob/master/images/clock.gif)
-
+![image](https://github.com/ZhaoJianXXXXX/data-visualization/blob/master/images/clock.gif)
